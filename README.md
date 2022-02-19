@@ -16,5 +16,5 @@ testing such as Holm-Bonferroni correction and Benjamini-Hochberg correction.
 
 Finally, in the analysis, understanding the mathematics and statistics of p-value and the consequences of these in real applications.
 
-The project included appliation of statistical methods with three different datasets and a written report in a deadline of two weeks of time.
+The project included application of statistical methods and models with three different datasets and a written report in a deadline of two weeks of time.
 
