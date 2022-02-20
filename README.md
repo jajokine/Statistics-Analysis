@@ -21,5 +21,5 @@ The project included application of statistical methods and models with three di
 **ACCESSING CODE AND REPORT**
 
 The statistical methods and code for the project is made with Jupyter Notebook and the written report is a pdf-file. The dependencies and requirements
-can be seen from requirements.txt that can be installed in shell with the command pip install -r requirements.txt
+can be seen from requirements.txt that can be installed in shell with the command pip install -r requirements.txt.
 
