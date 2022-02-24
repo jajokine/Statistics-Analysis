@@ -1,5 +1,6 @@
-# Statistics-Review
-MITx - MicroMasters Program on Statistics and Data Science - Data Analysis: Statistical Modeling and Computation in Applications - First Project 
+## Statistics-Review
+
+# MITx - MicroMasters Program on Statistics and Data Science - Data Analysis: Statistical Modeling and Computation in Applications - First Project 
 
 The first project of the MIT MicroMasters Program course on Data Analysis focused on a review of key statistical concepts
 related to performing research with empirical data. The concepts covered on how to design research experiments
@@ -18,9 +19,9 @@ Finally, in the analysis, understanding the mathematics and statistics of p-valu
 
 The project included application of statistical methods and models with three different datasets and a written report in a deadline of two weeks of time.
 
-**ACCESSING CODE AND REPORT**
+## Access and requirements
 
-The statistical application of methods and code for the project is made with Jupyter Notebook and the written report is a pdf-file.
+The statistical application of methods and code for the project is made with Jupyter Notebook which also includes parts from the written report.
 
 The dependencies and requirements can be seen from requirements.txt that can be installed in shell with the command:
 
