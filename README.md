@@ -13,9 +13,7 @@ in this test statistic.
 Furthermore, being able to understand and apply multiple hypothesis testing that includes a statistical model for the data and
 the hypothesis to be tested together with the adequate test statistics. Running the test by understanding the asymptotic distribution
 of the test statistic and identifying statistical significance by also incorporating the forms of correction for multiple hypotheses
-testing such as Holm-Bonferroni correction and Benjamini-Hochberg correction.
-
-Finally, in the analysis, understanding the mathematics and statistics of p-value and the consequences of these in real applications.
+testing such as Holm-Bonferroni correction and Benjamini-Hochberg correction. In the analysis, understanding the mathematics and statistics of p-value and the consequences of these in real applications. Being able to perform Ordinary-Least-Squares (OLS) regression together with gradient descent with multiple parameters, to interpret the results and to adjust accordingly in order to reach meaningful results.
 
 The project included application of statistical methods and models with three different datasets and a written report in a deadline of two weeks of time.
 
