@@ -17,7 +17,7 @@ testing such as Holm-Bonferroni correction and Benjamini-Hochberg correction. In
 
 The project included application of statistical methods and models with three different datasets and a written report in a deadline of two weeks of time.
 
-## Access and requirements
+## Access and Requirements
 
 The statistical application of methods and code for the project is made with Jupyter Notebook which also includes parts from the written report.
 
