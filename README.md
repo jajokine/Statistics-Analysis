@@ -19,7 +19,7 @@ The project included application of statistical methods and models with three di
 
 ## Access and Requirements
 
-The statistical application of methods and code for the project is made with Jupyter Notebook which also includes parts from the written report.
+The file [project1.ipynb](https://github.com/jajokine/Statistics-Review/blob/main/project1.ipynb) is the Jupyter Notebook that contains all the code, visualizations and analysis of the project.
 
 The dependencies and requirements can be seen from requirements.txt that can be installed in shell with the command:
 
